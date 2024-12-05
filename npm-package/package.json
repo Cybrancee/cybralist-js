@@ -1,0 +1,39 @@
+{
+  "name": "cybralist.js",
+  "version": "1.0.0",
+  "description": "An official cybralist.com api package.",
+  "main": "cybralist.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybrancee/cybralist-js.git"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "bhbotlist",
+    "bhlist",
+    "api",
+    "bots",
+    "bot",
+    "vote",
+    "check",
+    "votes",
+    "control",
+    "force"
+  ],
+  "author": "@Cybrancee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cybrancee/cybralist-js/issues"
+  },
+  "homepage": "https://github.com/cybrancee/cybralist-js#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.7"
+  }
+}
